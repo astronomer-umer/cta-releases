@@ -1,8 +1,8 @@
 {
-  "version": "1.4.2",
-  "url": "https://github.com/astronomer-umer/cta-releases/releases/download/v1.4.2/Construction.Takeoff.Assistant.Setup.exe",
-  "sha256": "ec64d9d639e52d46e318fa5a344ff3fde3e900ba80f9e538edbff2096e201ac1",
-  "size": 180223792,
+  "version": "1.4.3",
+  "url": "https://api.github.com/repos/astronomer-umer/cta-releases/releases/assets/672067168",
+  "sha256": "706827ca38a8876425c0744787b03b6de569afa5da9a5829d0dccb88c8525f85",
+  "size": 180198829,
   "release_notes": "",
-  "signature": "rlt++EwxjOymjyDjnaChq3WZHiwdF8WnAU8CT77T0a5AOqPwJGBZ13CNF+g9xxYkUz09/M7mgyGXVQXNhDKNDg=="
+  "signature": "6xo59aDMIr5+ffLsmhQKjsdxcuSHlMgDN6p/QPkncFzDxv9hLfmfIFEv2jpMl8zt0NBccxowc+4ULcuUU1trBA=="
 }
