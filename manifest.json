@@ -1,8 +1,8 @@
 {
-  "version": "1.4.3",
-  "url": "https://api.github.com/repos/astronomer-umer/cta-releases/releases/assets/672067168",
-  "sha256": "706827ca38a8876425c0744787b03b6de569afa5da9a5829d0dccb88c8525f85",
-  "size": 180198829,
+  "version": "1.4.4",
+  "url": "https://api.github.com/repos/astronomer-umer/cta-releases/releases/assets/672125390",
+  "sha256": "2e0b2baa58a1dbcf9fa25d6e327c28e7f38450d507f8ce82e4ed0dd95d592469",
+  "size": 180208230,
   "release_notes": "",
-  "signature": "6xo59aDMIr5+ffLsmhQKjsdxcuSHlMgDN6p/QPkncFzDxv9hLfmfIFEv2jpMl8zt0NBccxowc+4ULcuUU1trBA=="
+  "signature": "Ql8bj04JmJTI5yBbTNLqAfHE0JQ07KnpHfBxjoeEzM23j6mo8XPaZBsFIXzbylMNMj45PDR5S+mDjc7SKgGxAA=="
 }
