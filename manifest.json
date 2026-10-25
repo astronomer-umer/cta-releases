@@ -3,6 +3,6 @@
   "url": "https://github.com/astronomer-umer/cta-releases/releases/download/v1.4.6/Construction.Takeoff.Assistant.Setup.exe",
   "sha256": "a916251618754f536cb046f90d74c97d271a09328b89ac23787b77de4f47c6ed",
   "size": 180238820,
-  "release_notes": "Production release v1.4.6 - manhole count fix, signed updates, and the privacy fix: an error report can no longer carry the PlanSwift job name or a file path.",
-  "signature": "+BIFUTO0xddtHy+gDvZkvlMcpBkPNmUcfmdzpwEPZ6wHJVHby8G5/ksnJCzmaP2wQguRmComzAm2GRUuIPnvCw=="
+  "release_notes": "Manhole count fix, signed updates, privacy fix, and no stray nested App tree in the install.",
+  "signature": "O6HOzCNXAVJxlQxmZ6NFIcZrRfQ/C55hXZ6V50VPgrOl5LV4D153BlPD1qtnQDRTAt5GnAFmlA2xbrWhCX1JBw=="
 }
