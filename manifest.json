@@ -1,8 +1,8 @@
 {
-  "version": "1.4.6",
-  "url": "https://github.com/astronomer-umer/cta-releases/releases/download/v1.4.6/Construction.Takeoff.Assistant.Setup.exe",
-  "sha256": "a916251618754f536cb046f90d74c97d271a09328b89ac23787b77de4f47c6ed",
-  "size": 180238820,
-  "release_notes": "Manhole count fix, signed updates, privacy fix, and no stray nested App tree in the install.",
-  "signature": "O6HOzCNXAVJxlQxmZ6NFIcZrRfQ/C55hXZ6V50VPgrOl5LV4D153BlPD1qtnQDRTAt5GnAFmlA2xbrWhCX1JBw=="
+  "version": "1.4.7",
+  "url": "https://github.com/astronomer-umer/cta-releases/releases/download/v1.4.7/Construction.Takeoff.Assistant.Setup.exe",
+  "sha256": "bd87c7abbafaae4271d165ecf8836da3f5e3f203675d6d5b3e0b119d35f04d33",
+  "size": 180246709,
+  "release_notes": "Check for Updates now works, plus everything in 1.4.6: manhole count fix, signed updates, privacy fix.",
+  "signature": "z6eAvyNKSjprBPHp82pYf9qRGyi/ciaTztuSt5Nz9vpVTESTpJYod4y6zsE+sq32d4mOJINdJG805xsbJoHzAQ=="
 }
