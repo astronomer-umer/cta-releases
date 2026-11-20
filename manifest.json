@@ -1,8 +1,8 @@
 {
-  "version": "1.4.7",
-  "url": "https://github.com/astronomer-umer/cta-releases/releases/download/v1.4.7/Construction.Takeoff.Assistant.Setup.exe",
-  "sha256": "bd87c7abbafaae4271d165ecf8836da3f5e3f203675d6d5b3e0b119d35f04d33",
-  "size": 180246709,
-  "release_notes": "Check for Updates now works, plus everything in 1.4.6: manhole count fix, signed updates, privacy fix.",
-  "signature": "z6eAvyNKSjprBPHp82pYf9qRGyi/ciaTztuSt5Nz9vpVTESTpJYod4y6zsE+sq32d4mOJINdJG805xsbJoHzAQ=="
+  "version": "1.4.8",
+  "url": "https://github.com/astronomer-umer/cta-releases/releases/download/v1.4.8/Construction.Takeoff.Assistant.Setup.exe",
+  "sha256": "7d8cd5dfc8e4085d9c0a814fb229713b7c8abe42620c0367c1c7ec7eee9e55ac",
+  "size": 180226998,
+  "release_notes": "PDF drawings with null line widths no longer crash the analyser, working Check for Updates button, plus everything in 1.4.6.",
+  "signature": "szvP8PupGr+BhHh75LYiLXV79hESJpBdE41DPqpgvINQZy1mRc15kW3HOjoNZ7nzGL8gJ0rFqEiI15yQgbZGAw=="
 }
