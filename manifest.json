@@ -1,8 +1,8 @@
 {
-  "version": "1.4.8",
-  "url": "https://github.com/astronomer-umer/cta-releases/releases/download/v1.4.8/Construction.Takeoff.Assistant.Setup.exe",
-  "sha256": "7d8cd5dfc8e4085d9c0a814fb229713b7c8abe42620c0367c1c7ec7eee9e55ac",
-  "size": 180226998,
-  "release_notes": "PDF drawings with null line widths no longer crash the analyser, working Check for Updates button, plus everything in 1.4.6.",
-  "signature": "szvP8PupGr+BhHh75LYiLXV79hESJpBdE41DPqpgvINQZy1mRc15kW3HOjoNZ7nzGL8gJ0rFqEiI15yQgbZGAw=="
+  "version": "1.4.9",
+  "url": "https://github.com/astronomer-umer/cta-releases/releases/download/v1.4.9/Construction.Takeoff.Assistant.Setup.exe",
+  "sha256": "49ef9dc4c45148178b05ca2540099c62277323ee853c5e48289f80d6d59fa225",
+  "size": 180247000,
+  "release_notes": "Reads the drawing at its printed size, so the manhole count is right: 47 structures with a cover level on the client surface water page where it found 25, with 105 level values where it read 4.",
+  "signature": "0Dj0sprd3j0B3q8MSpPk7ouDvcf2FXA6K2etbc/UoeulIN2OfzzWF3ccvIzq0Zt5cv6MG9uEK+aAMO4hdLA9BA=="
 }
