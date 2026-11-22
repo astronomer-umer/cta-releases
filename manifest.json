@@ -1,8 +1,8 @@
 {
-  "version": "1.4.14",
-  "url": "https://github.com/astronomer-umer/cta-releases/releases/download/v1.4.14/Construction.Takeoff.Assistant.Setup.exe",
-  "sha256": "ddd509726e7978a342ba3006d112fcd6c40a69ff8936bf0c557962496ca1c754",
-  "size": 180257326,
+  "version": "1.4.15",
+  "url": "https://github.com/astronomer-umer/cta-releases/releases/download/v1.4.15/Construction.Takeoff.Assistant.Setup.exe",
+  "sha256": "76fdc3e944d77ac27b7446aa4961d89188c27068a0e8ccdf153a1b2bbdaec84f",
+  "size": 14348804,
   "release_notes": "The release that works on the client machine: the PlanSwift version check accepts any 10.2 build, a recorded step can no longer put an item in the wrong place, and one button copies a system report so nothing has to be diagnosed by guesswork.",
-  "signature": "G99ZZUSPIKz0QcM8SsIvN4Dc+563KgriiAO/me+zfXiOX9r75KOSFCl1sAzVuLYR3GOvXHO0qRPFoIcgGXH3BA=="
+  "signature": "PiroKiiOrKGHca+tYy2vAfv5ZbUeK166CdI9NNty8Jqwi+u5w6cRcD/QqSOxdw7U6WKACNkwjLqw+BTqhHuDAw=="
 }
