@@ -1,8 +1,8 @@
 {
   "version": "1.4.9",
   "url": "https://github.com/astronomer-umer/cta-releases/releases/download/v1.4.9/Construction.Takeoff.Assistant.Setup.exe",
-  "sha256": "8d6ce9bebeb7e946e58d976d40c5c74705b39295acd9357d14440f9d5672a2e1",
-  "size": 180261225,
+  "sha256": "5db3b81e3758c9e6a837a26df14eaf4a435633f821c740cd2a18ac52a374e0d3",
+  "size": 180276504,
   "release_notes": "Reads the drawing at its printed size, so the manhole count is right: 47 structures with a cover level on the client surface water page where it found 25, with 105 level values where it read 4.",
-  "signature": "wGBD2a1QbVF5rOC5xgHFtdJlgGnssoKYr8R1e2D67MSj2AH/z5hAYxqtCtT+QygOnUXb93ASjE30NzYSoQVoCg=="
+  "signature": "H9R1N/N9JJGGgna9ZXd+g+vJE9rRBUkUgvaNMfcfcw7L6U9w0UKOMyCQyez+T1zDrgOrb86EpvDesoqADOo3Ag=="
 }
