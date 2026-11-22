@@ -1,8 +1,8 @@
 {
-  "version": "1.4.15",
-  "url": "https://github.com/astronomer-umer/cta-releases/releases/download/v1.4.15/Construction.Takeoff.Assistant.Setup.exe",
-  "sha256": "76fdc3e944d77ac27b7446aa4961d89188c27068a0e8ccdf153a1b2bbdaec84f",
-  "size": 14348804,
-  "release_notes": "The release that works on the client machine: the PlanSwift version check accepts any 10.2 build, a recorded step can no longer put an item in the wrong place, and one button copies a system report so nothing has to be diagnosed by guesswork.",
-  "signature": "PiroKiiOrKGHca+tYy2vAfv5ZbUeK166CdI9NNty8Jqwi+u5w6cRcD/QqSOxdw7U6WKACNkwjLqw+BTqhHuDAw=="
+  "version": "1.4.16",
+  "url": "https://github.com/astronomer-umer/cta-releases/releases/download/v1.4.16/Construction.Takeoff.Assistant.Setup.exe",
+  "sha256": "a38de5ee9ae06fd0f7d0d052c794d3c3af39574a3bcd0b6c314f136c05594165",
+  "size": 180286098,
+  "release_notes": "Runs the take-off by itself from a cold start: it starts PlanSwift, reaches it, opens your drawing, reads it, writes the items into PlanSwift and writes your Excel. A crash never leaves half a take-off behind.",
+  "signature": "TtBK75wj0pE2H7e77SWbYsaB+drV1XIPqx3HzG0IEN6knZXOy4fyw1vPZ7KJxN4B2HtQmhSpJuNc1HKynJ35Dw=="
 }
