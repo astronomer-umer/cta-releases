@@ -3,6 +3,6 @@
   "url": "https://github.com/astronomer-umer/cta-releases/releases/download/v1.4.12/Construction.Takeoff.Assistant.Setup.exe",
   "sha256": "cba9da216510217c4de66352ac1e274412902f7e541bc47aef2c583b400e5cd0",
   "size": 180274172,
-  "release_notes": "The release that works on the client machine: the PlanSwift version check accepts any 10.2 build, a recorded step can no longer put an item in the wrong place, and one button copies a system report so nothing has to be diagnosed by guesswork.",
-  "signature": "etdrVLzGeS6A41joyBFfr/1X+ihPa0H7C0TfJrWQzJqsyac+WH0CZWa43WD8S9meFu8SXyMf9/Dn2oeDV8I7Cw=="
+  "release_notes": "Runs the take-off by itself, recovers from a crash, installs its own updates, and stops if the drawing is not the approved one. The manhole count is unchanged and proven live: 47 structures with a cover level, 46 of them carrying both levels in PlanSwift.",
+  "signature": "SkLsCXbX5Dy5D5h7EDK/a10J9zSCRPttakItR2y/lt09SRx28Nh4gB/r0l3q1eQoUYpngA0VcluDe4MM300CBw=="
 }
