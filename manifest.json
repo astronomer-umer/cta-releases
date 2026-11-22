@@ -1,8 +1,8 @@
 {
-  "version": "1.4.10",
-  "url": "https://github.com/astronomer-umer/cta-releases/releases/download/v1.4.10/Construction.Takeoff.Assistant.Setup.exe",
-  "sha256": "af1c2b0f17bcb19caedf5f8c58f8f99d21ebc4f257b56d2ab8a9c06b54c31124",
-  "size": 180256088,
-  "release_notes": "Reads the drawing at its printed size, so the manhole count is right: 47 structures with a cover level on the client surface water page where it found 25. The analysis is versioned and cached: a cached analysis from an older build is never reused, and a fresh analysis is kept so the next run on the same drawing is immediate.",
-  "signature": "rGrjIERHa+Vr03CabgKnC+vnYARi2JLTbYzy/2z0CyGYmcBlm+Q4747bBkHchHMZwsEe+IUA6Hlzw2/Xy/AXAw=="
+  "version": "1.4.11",
+  "url": "https://github.com/astronomer-umer/cta-releases/releases/download/v1.4.11/Construction.Takeoff.Assistant.Setup.exe",
+  "sha256": "1e123ca13fb595f42ca83b55c3bdf5be4fe8ae56cdbdd89a4d7aaac1c4767dbc",
+  "size": 180261013,
+  "release_notes": "The release that works on the client machine: the PlanSwift version check accepts any 10.2 build, a recorded step can no longer put an item in the wrong place, and one button copies a system report so nothing has to be diagnosed by guesswork.",
+  "signature": "ZQFrzUX3+7GSJAHYy6PudDBeB1VaGDBPYLxEN3gbYY0X7YnI3aW1Zyo+ooNNZTMqwtql1BqsHy/1y0lOayhLDA=="
 }
