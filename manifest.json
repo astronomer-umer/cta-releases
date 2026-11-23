@@ -1,8 +1,8 @@
 {
-  "version": "1.4.18",
-  "url": "https://github.com/astronomer-umer/cta-releases/releases/download/v1.4.18/Construction.Takeoff.Assistant.Setup.exe",
-  "sha256": "f644a46fa2eaae00b49a9446b8c3c9bc892620be35ecd87358d6f5476db584e7",
-  "size": 180271972,
+  "version": "1.4.19",
+  "url": "https://github.com/astronomer-umer/cta-releases/releases/download/v1.4.19/Construction.Takeoff.Assistant.Setup.exe",
+  "sha256": "2d54ee6cc5395023a87466e9316797114e95edf8f137da5c29c1520ad40f9acf",
+  "size": 180279653,
   "release_notes": "The trench sheet now reads the colour of every line on your drawing, so a storm water pipe can only be matched to a storm water manhole, and road edges and hatch lines are no longer counted as trenches. The manhole count and the levels are unchanged.",
-  "signature": "QdsOSpvn0K28701Wafe/Xsut24NBSr1QWWFoU1gzI/byxTBr1NIXZbmUtFiMQCZySkuhzfFgwOPOJi1RNY6HCg=="
+  "signature": "/1jvtMv53jybSZ8A/2k91s1nvib4NqmCIsZpWJ3U8XUSp5ob7T+YbmR0wZV1yKh1uGjOci99kjV4C3CfLBc5Cw=="
 }
