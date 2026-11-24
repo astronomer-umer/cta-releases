@@ -1,8 +1,8 @@
 {
-  "version": "1.4.20",
-  "url": "https://github.com/astronomer-umer/cta-releases/releases/download/v1.4.20/Construction.Takeoff.Assistant.Setup.exe",
-  "sha256": "22c4cc068f44e919a279f2b7c049fa4a46a864570b1b7a15174096370fc1fdc8",
-  "size": 180280006,
-  "release_notes": "The trench sheet now carries the size and the material of the pipe, read along the pipe itself. One pipe is one row, and no row can name a manhole that is not on the sheet. The manhole count and the levels are unchanged.",
-  "signature": "dIPwnWxIE1VX/wjHYGsZ5XovlP0TJ2PRm+ce+I39LRAWTthZ5cDZs1hG4sxUTz46WYhigRzJhyW2GSk2RxOYAQ=="
+  "version": "1.4.22",
+  "url": "https://github.com/astronomer-umer/cta-releases/releases/download/v1.4.22/Construction.Takeoff.Assistant.Setup.exe",
+  "sha256": "485276ffecfffcbf9a341971290db5ed7628afda8deaff4cb38d92aa7788f0fe",
+  "size": 180171859,
+  "release_notes": "A storm water run and a foul water run can no longer be given the same id, so no trench is missing from the drawing, and a run that writes nothing is reported as a failed run instead of a finished one.",
+  "signature": "VyHtSEzqUWpftekC5E5mhPAAncU595lwU6c7wcUQGGL1GEmDiyMqZ+aQlXPU+JSm+Bov52Uwd/XIiIbLC+zHBg=="
 }
