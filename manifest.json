@@ -1,8 +1,8 @@
 {
-  "version": "1.4.24",
-  "url": "https://github.com/astronomer-umer/cta-releases/releases/download/v1.4.24/Construction.Takeoff.Assistant.Setup.exe",
-  "sha256": "fb6330a48aa9b928f25c2e13481e9de10102abafdd122f807002d645b65dc821",
-  "size": 180186831,
-  "release_notes": "The items are written with the names and the look the client uses himself, they go into the page take-off container, and the write is seven times faster.",
-  "signature": "U1oL2EouemwUlQfdh7TbISfwpXGGlr6GGwEGE7I1kLx+VILg7jddjMy9/HT0FOblqjcgBz+GlNyEuAj+nNWcAQ=="
+  "version": "1.4.25",
+  "url": "https://github.com/astronomer-umer/cta-releases/releases/download/v1.4.25/Construction.Takeoff.Assistant.Setup.exe",
+  "sha256": "93c657e341b27633418d9ecfb4e1a0ea03d958cb22608e74823c99f6045e94f3",
+  "size": 180162281,
+  "release_notes": "The items are written with the names and the look the client uses himself, they go into the page take-off container, the write is seven times faster, and the app says how long the first run takes.",
+  "signature": "1GWa7Eh6yG1zwhyXFDlBnp6CubLqMPI4AfVY5fxTZ/Ts4Uu6kByXtIByuEbwuo/ZI2AhhVTO/YlsB4koAEepBQ=="
 }
