@@ -1,8 +1,8 @@
 {
-  "version": "1.4.25",
-  "url": "https://github.com/astronomer-umer/cta-releases/releases/download/v1.4.25/Construction.Takeoff.Assistant.Setup.exe",
-  "sha256": "93c657e341b27633418d9ecfb4e1a0ea03d958cb22608e74823c99f6045e94f3",
-  "size": 180162281,
-  "release_notes": "The items are written with the names and the look the client uses himself, they go into the page take-off container, the write is seven times faster, and the app says how long the first run takes.",
-  "signature": "1GWa7Eh6yG1zwhyXFDlBnp6CubLqMPI4AfVY5fxTZ/Ts4Uu6kByXtIByuEbwuo/ZI2AhhVTO/YlsB4koAEepBQ=="
+  "version": "1.5.0",
+  "url": "https://github.com/astronomer-umer/cta-releases/releases/download/v1.5.0/Construction.Takeoff.Assistant.Setup.exe",
+  "sha256": "d7a8eaac86f5dee96ba98642d8f155e41282235cbe10d31a005e382e62554dd9",
+  "size": 180195533,
+  "release_notes": "# CTA 1.5.0\n\nThe app now says what it is doing while it works, and it can read the\ndrawing from your own PDF, which takes seconds instead of ten minutes.",
+  "signature": "TlhdF2aDP44RX1+xT6tmcu1D6Nt2dlsQsb+fy3uR8tO3CPPxt0R+0ozLhfdiax+eSkh901lTDe5cxUO61ijnDw=="
 }
