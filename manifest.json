@@ -3,6 +3,6 @@
   "url": "https://github.com/astronomer-umer/cta-releases/releases/download/v1.5.0/Construction.Takeoff.Assistant.Setup.exe",
   "sha256": "d7a8eaac86f5dee96ba98642d8f155e41282235cbe10d31a005e382e62554dd9",
   "size": 180195533,
-  "release_notes": "# CTA 1.5.0\n\nThe app now says what it is doing while it works, and it can read the\ndrawing from your own PDF, which takes seconds instead of ten minutes.",
-  "signature": "TlhdF2aDP44RX1+xT6tmcu1D6Nt2dlsQsb+fy3uR8tO3CPPxt0R+0ozLhfdiax+eSkh901lTDe5cxUO61ijnDw=="
+  "release_notes": "# CTA 1.5.0\n\nThe app now says what it is doing while it works, and the screens around\nit tell the truth.",
+  "signature": "7Tmu9AoFAksVhtjOD/zGpDnuWhh4VLI6Tm2KfthP83g+qg0LujM2YIucCUM2jLZlQNMI4Q7JyXu5iHauBnp+CQ=="
 }
